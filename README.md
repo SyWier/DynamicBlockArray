@@ -2,7 +2,7 @@
 
 Highly efficient dynamic memory structure with fast memory acces and light resize.
 
-The stucture allocate the memory in chunks and we keep track of these in a table, thus making it possible to acces the memory directly (without any jumps like in a linked list).
+The stucture allocate the memory in chunks which makes the allocation fast and we keep track of these in a table, thus making it possible to acces the memory directly (without any jumps like in a linked list).
 
 # What does it provide?
 
